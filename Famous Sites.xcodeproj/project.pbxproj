@@ -9,10 +9,24 @@
 /* Begin PBXBuildFile section */
 		AAAA223F1CD90A1000656FA2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AAAA223E1CD90A1000656FA2 /* main.m */; };
 		AAAA22421CD90A1000656FA2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AAAA22411CD90A1000656FA2 /* AppDelegate.m */; };
-		AAAA22451CD90A1000656FA2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AAAA22441CD90A1000656FA2 /* ViewController.m */; };
 		AAAA22481CD90A1000656FA2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAAA22461CD90A1000656FA2 /* Main.storyboard */; };
 		AAAA224A1CD90A1000656FA2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAAA22491CD90A1000656FA2 /* Assets.xcassets */; };
 		AAAA224D1CD90A1000656FA2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAAA224B1CD90A1000656FA2 /* LaunchScreen.storyboard */; };
+		AAAA22571CD90BAC00656FA2 /* SitesTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AAAA22561CD90BAC00656FA2 /* SitesTableViewController.m */; };
+		AAAA225D1CD90CED00656FA2 /* Sites.m in Sources */ = {isa = PBXBuildFile; fileRef = AAAA225C1CD90CED00656FA2 /* Sites.m */; };
+		AAAA22611CD910A200656FA2 /* SiteTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = AAAA22601CD910A200656FA2 /* SiteTableViewCell.m */; };
+		AAAA22631CD9194300656FA2 /* sites.json in Resources */ = {isa = PBXBuildFile; fileRef = AAAA22621CD9194300656FA2 /* sites.json */; };
+		AAAA22661CD919F300656FA2 /* SitesDetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AAAA22651CD919F300656FA2 /* SitesDetailsViewController.m */; };
+		AAAA22711CD9230500656FA2 /* greatwall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AAAA22671CD9230500656FA2 /* greatwall.jpg */; };
+		AAAA22721CD9230500656FA2 /* tajmahal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AAAA22681CD9230500656FA2 /* tajmahal.jpg */; };
+		AAAA22731CD9230500656FA2 /* easterisland.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AAAA22691CD9230500656FA2 /* easterisland.jpg */; };
+		AAAA22741CD9230500656FA2 /* parthenon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AAAA226A1CD9230500656FA2 /* parthenon.jpg */; };
+		AAAA22751CD9230500656FA2 /* colosseum.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AAAA226B1CD9230500656FA2 /* colosseum.jpg */; };
+		AAAA22761CD9230500656FA2 /* stonehenge.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AAAA226C1CD9230500656FA2 /* stonehenge.jpg */; };
+		AAAA22771CD9230500656FA2 /* petra.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AAAA226D1CD9230500656FA2 /* petra.jpg */; };
+		AAAA22781CD9230500656FA2 /* angkor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AAAA226E1CD9230500656FA2 /* angkor.jpg */; };
+		AAAA22791CD9230500656FA2 /* pyramids.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AAAA226F1CD9230500656FA2 /* pyramids.jpg */; };
+		AAAA227A1CD9230500656FA2 /* machupichu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AAAA22701CD9230500656FA2 /* machupichu.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,12 +34,29 @@
 		AAAA223E1CD90A1000656FA2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		AAAA22401CD90A1000656FA2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		AAAA22411CD90A1000656FA2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		AAAA22431CD90A1000656FA2 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		AAAA22441CD90A1000656FA2 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		AAAA22471CD90A1000656FA2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		AAAA22491CD90A1000656FA2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AAAA224C1CD90A1000656FA2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AAAA224E1CD90A1000656FA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AAAA22551CD90BAC00656FA2 /* SitesTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SitesTableViewController.h; sourceTree = "<group>"; };
+		AAAA22561CD90BAC00656FA2 /* SitesTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SitesTableViewController.m; sourceTree = "<group>"; };
+		AAAA225B1CD90CED00656FA2 /* Sites.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Sites.h; sourceTree = "<group>"; };
+		AAAA225C1CD90CED00656FA2 /* Sites.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Sites.m; sourceTree = "<group>"; };
+		AAAA225F1CD910A200656FA2 /* SiteTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SiteTableViewCell.h; sourceTree = "<group>"; };
+		AAAA22601CD910A200656FA2 /* SiteTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SiteTableViewCell.m; sourceTree = "<group>"; };
+		AAAA22621CD9194300656FA2 /* sites.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = sites.json; sourceTree = "<group>"; };
+		AAAA22641CD919F300656FA2 /* SitesDetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SitesDetailsViewController.h; sourceTree = "<group>"; };
+		AAAA22651CD919F300656FA2 /* SitesDetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SitesDetailsViewController.m; sourceTree = "<group>"; };
+		AAAA22671CD9230500656FA2 /* greatwall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = greatwall.jpg; sourceTree = "<group>"; };
+		AAAA22681CD9230500656FA2 /* tajmahal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tajmahal.jpg; sourceTree = "<group>"; };
+		AAAA22691CD9230500656FA2 /* easterisland.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = easterisland.jpg; sourceTree = "<group>"; };
+		AAAA226A1CD9230500656FA2 /* parthenon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = parthenon.jpg; sourceTree = "<group>"; };
+		AAAA226B1CD9230500656FA2 /* colosseum.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = colosseum.jpg; sourceTree = "<group>"; };
+		AAAA226C1CD9230500656FA2 /* stonehenge.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stonehenge.jpg; sourceTree = "<group>"; };
+		AAAA226D1CD9230500656FA2 /* petra.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = petra.jpg; sourceTree = "<group>"; };
+		AAAA226E1CD9230500656FA2 /* angkor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = angkor.jpg; sourceTree = "<group>"; };
+		AAAA226F1CD9230500656FA2 /* pyramids.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pyramids.jpg; sourceTree = "<group>"; };
+		AAAA22701CD9230500656FA2 /* machupichu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = machupichu.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,14 +89,26 @@
 		AAAA223C1CD90A1000656FA2 /* Famous Sites */ = {
 			isa = PBXGroup;
 			children = (
+				AAAA225E1CD9107600656FA2 /* Cell */,
+				AAAA225A1CD90CD500656FA2 /* Model */,
+				AAAA22541CD90B7E00656FA2 /* View Controllers */,
 				AAAA22401CD90A1000656FA2 /* AppDelegate.h */,
 				AAAA22411CD90A1000656FA2 /* AppDelegate.m */,
-				AAAA22431CD90A1000656FA2 /* ViewController.h */,
-				AAAA22441CD90A1000656FA2 /* ViewController.m */,
 				AAAA22461CD90A1000656FA2 /* Main.storyboard */,
 				AAAA22491CD90A1000656FA2 /* Assets.xcassets */,
+				AAAA22671CD9230500656FA2 /* greatwall.jpg */,
+				AAAA22681CD9230500656FA2 /* tajmahal.jpg */,
+				AAAA22691CD9230500656FA2 /* easterisland.jpg */,
+				AAAA226A1CD9230500656FA2 /* parthenon.jpg */,
+				AAAA226B1CD9230500656FA2 /* colosseum.jpg */,
+				AAAA226C1CD9230500656FA2 /* stonehenge.jpg */,
+				AAAA226D1CD9230500656FA2 /* petra.jpg */,
+				AAAA226E1CD9230500656FA2 /* angkor.jpg */,
+				AAAA226F1CD9230500656FA2 /* pyramids.jpg */,
+				AAAA22701CD9230500656FA2 /* machupichu.jpg */,
 				AAAA224B1CD90A1000656FA2 /* LaunchScreen.storyboard */,
 				AAAA224E1CD90A1000656FA2 /* Info.plist */,
+				AAAA22621CD9194300656FA2 /* sites.json */,
 				AAAA223D1CD90A1000656FA2 /* Supporting Files */,
 			);
 			path = "Famous Sites";
@@ -77,6 +120,35 @@
 				AAAA223E1CD90A1000656FA2 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		AAAA22541CD90B7E00656FA2 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				AAAA22551CD90BAC00656FA2 /* SitesTableViewController.h */,
+				AAAA22561CD90BAC00656FA2 /* SitesTableViewController.m */,
+				AAAA22641CD919F300656FA2 /* SitesDetailsViewController.h */,
+				AAAA22651CD919F300656FA2 /* SitesDetailsViewController.m */,
+			);
+			name = "View Controllers";
+			sourceTree = "<group>";
+		};
+		AAAA225A1CD90CD500656FA2 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				AAAA225B1CD90CED00656FA2 /* Sites.h */,
+				AAAA225C1CD90CED00656FA2 /* Sites.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		AAAA225E1CD9107600656FA2 /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				AAAA225F1CD910A200656FA2 /* SiteTableViewCell.h */,
+				AAAA22601CD910A200656FA2 /* SiteTableViewCell.m */,
+			);
+			name = Cell;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -136,8 +208,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AAAA22731CD9230500656FA2 /* easterisland.jpg in Resources */,
+				AAAA22711CD9230500656FA2 /* greatwall.jpg in Resources */,
+				AAAA22751CD9230500656FA2 /* colosseum.jpg in Resources */,
+				AAAA22781CD9230500656FA2 /* angkor.jpg in Resources */,
 				AAAA224D1CD90A1000656FA2 /* LaunchScreen.storyboard in Resources */,
+				AAAA22741CD9230500656FA2 /* parthenon.jpg in Resources */,
+				AAAA22791CD9230500656FA2 /* pyramids.jpg in Resources */,
+				AAAA22761CD9230500656FA2 /* stonehenge.jpg in Resources */,
+				AAAA227A1CD9230500656FA2 /* machupichu.jpg in Resources */,
+				AAAA22771CD9230500656FA2 /* petra.jpg in Resources */,
 				AAAA224A1CD90A1000656FA2 /* Assets.xcassets in Resources */,
+				AAAA22721CD9230500656FA2 /* tajmahal.jpg in Resources */,
+				AAAA22631CD9194300656FA2 /* sites.json in Resources */,
 				AAAA22481CD90A1000656FA2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -149,8 +232,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AAAA22451CD90A1000656FA2 /* ViewController.m in Sources */,
+				AAAA22661CD919F300656FA2 /* SitesDetailsViewController.m in Sources */,
 				AAAA22421CD90A1000656FA2 /* AppDelegate.m in Sources */,
+				AAAA22571CD90BAC00656FA2 /* SitesTableViewController.m in Sources */,
+				AAAA225D1CD90CED00656FA2 /* Sites.m in Sources */,
+				AAAA22611CD910A200656FA2 /* SiteTableViewCell.m in Sources */,
 				AAAA223F1CD90A1000656FA2 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

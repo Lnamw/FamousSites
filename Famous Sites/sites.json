@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Machu Pichu",
+    "location": "Peru",
+    "detail": "Located in southern Peru, this ruined city lies on top of a mountain that’s only accessible by train or a four-day trek. Rediscovered by Hiram Bingham in 1911, it was an important cultural center for the Inca civilization but was abandoned when the Spanish invaded the region. (It is famously referred to as the “Lost City of the Incas,” though that is actually Vilcabamba). The location was made a UNESCO World Heritage site in 1983, and it was named one of the New Seven Wonders of the World in 2007. Concerns over growing numbers of tourists have led to limitations on how many people can enter the site, though only by a fraction of what is necessary. Hopefully they will limit it even more so this site can last for hundreds of years more.",
+    "image": "machupichu.jpg"
+  },
+  {
+    "name": "The Pyramids at Giza",
+    "location": "Egypt",
+    "detail": "They’re over 3,000 years old, and we still don’t have a good idea as to how they were built or how the Egyptians made them so precise (were aliens involved?). The three pyramids align to the stars and the solstices and contain tons of chambers that still haven’t been (and cannot be) opened. I mean, how did they create those little chambers where people can’t even crawl through? The largest one, called the Great Pyramid, was built by the Pharaoh Khufu and has limited access to it. The Pyramids are truly a marvel of human engineering that was fit for kings. (You will also find the Sphinx nearby, another historical site whose mysteries baffle researchers and are the subject of many conspiracy theories.)",
+    "image": "pyramids.jpg"
+  },
+  {
+    "name": "Angkor Wat",
+    "location": "Cambodia",
+    "detail": "This ancient city in Cambodia was the center of the Khmer Empire that once ruled most of Southeast Asia. This empire fell into decline, but not before building amazing temples and buildings that were later reclaimed by the jungle for hundreds of years.Though Angkor Wat is packed with tourists, it’s still breathtaking to see. And the temple regions to the north and south see far fewer tourists than the main temple grouping. (Though admittedly, some of them are simply piles of stone rubble now.)The most popular temples are Angkor Wat, Bayon, Ta Phrom, and Angkor Thom, and they always have crowds. In order to really experience the temples, you’ll need to purchase the three- or five-day pass. The best time to visit is early in the morning before the big tour groups arrive and stay late after they have gone. This ancient city in Cambodia was the center of the Khmer Empire that once ruled most of Southeast Asia. This empire fell into decline, but not before building amazing temples and buildings that were later reclaimed by the jungle for hundreds of years.Though Angkor Wat is packed with tourists, it’s still breathtaking to see. And the temple regions to the north and south see far fewer tourists than the main temple grouping. (Though admittedly, some of them are simply piles of stone rubble now.)The most popular temples are Angkor Wat, Bayon, Ta Phrom, and Angkor Thom, and they always have crowds. In order to really experience the temples, you’ll need to purchase the three- or five-day pass. The best time to visit is early in the morning before the big tour groups arrive and stay late after they have gone.This ancient city in Cambodia was the center of the Khmer Empire that once ruled most of Southeast Asia. This empire fell into decline, but not before building amazing temples and buildings that were later reclaimed by the jungle for hundreds of years.Though Angkor Wat is packed with tourists, it’s still breathtaking to see. And the temple regions to the north and south see far fewer tourists than the main temple grouping. (Though admittedly, some of them are simply piles of stone rubble now.)The most popular temples are Angkor Wat, Bayon, Ta Phrom, and Angkor Thom, and they always have crowds. In order to really experience the temples, you’ll need to purchase the three- or five-day pass. The best time to visit is early in the morning before the big tour groups arrive and stay late after they have gone.",
+    "image": "angkor.jpg"
+  },  
+  {
+    "name": "Petra",
+    "location": "Jordan",
+    "detail": "Carved into a canyon in Arabah, Jordan, Petra was made famous by the third Indiana Jones film when he went to find the Holy Grail. The site was “discovered” in 1812 by a Swiss explorer who followed some local tribesmen there; prior to that, it had been forgotten to the Western world. Though its founding is unknown, it appears this place had settlers as early as the 6th century BC. Under Roman rule, the site declined rapidly and was abandoned by the late 4th century. In 1985, Petra became a UNESCO World Heritage Site and was recently named one of the New Seven Wonders of the World.",
+    "image": "petra.jpg"
+  },  
+  {
+    "name": "Stonehenge",
+    "location": "England",
+    "detail": "Located near Salisbury, England, this megalithic structure is over 3,000 years old, and its stones come all the way from Wales. Scholars still are not sure how the builders got the stones there and have tried to replicate the feat, with dismal results. Moreover, we only have a vague idea to its purpose (we’re basically just guessing). Stonehenge is now fenced off, and you can no longer go into the circle; visitors can only walk around the attraction. But it’s worth visiting for the mystery behind it and an excellent and detailed audio tour.",
+    "image": "stonehenge.jpg"
+  },  
+  {
+    "name": "The Colosseum and Forum",
+    "location": "Italy",
+    "detail": "The Colosseum and the Forum are right next to each other in Rome, so I included them together. Remnants of a civilization that once controlled the known world, these sites are breathtaking not only for their beauty but also for their history and age. You’re standing in the spot Caesar walked and gazing into the arena where gladiators battled to the death. The Colosseum has slowly crumbled throughout the ages, and much of it is restricted now, especially the floor and basement where everything was organized. The Forum is great to walk around (and it’s free), though a ticket is required for Palatine Hill. I would definitely get a guided tour, because the information presented by the authorities doesn’t go into much depth.",
+    "image": "colosseum.jpg"
+  },  
+  {
+    "name": "The Parthenon",
+    "location": "Greece",
+    "detail": "Though it’s currently (and seemingly has been forever) getting a face-lift, the Parthenon is still astounding and breathtaking. This ancient temple to Athena stands as a symbol of the power of Athens and a testament to Greek civilization. Moreover, it provides a sweeping view of Athens and nearby ruins, whose temples and buildings are equally as wondrous. Over the centuries, much of it and the surrounding structures have been destroyed by war and thieves. Luckily, the structure still stands… at least for now. Note that there is scaffolding along the right side of the structure; considering it has been there for over five years, I doubt it is going anywhere anytime soon. They do things slowly in Greece.",
+    "image": "parthenon.jpg"
+  },  
+  {
+    "name": "Easter Island",
+    "location": "Chile",
+    "detail": "Located out in the Pacific Ocean, Easter Island, a special territory of Chile, is home to Moai statues that are the only thing left of a culture that once lived here. These gigantic and impressively carved heads are just another reminder that primitive people were not really all that primitive. The stones that attract visitors to this island are made out of volcanic ash; many still remain in the quarry, left behind by the inhabitants as diminishing resources on the island left their tribes doomed to wars that finally killed them off.",
+    "image": "easterisland.jpg"
+  },  
+  {
+    "name": "Taj Mahal",
+    "location": "India",
+    "detail": "Built in the 1600s, this building in Agra, India, is a testament to undying love. This white marble tomb built for Emperor Shah Jahan’s deceased wife is a must-see for everyone. In 1983, it was named a UNESCO World Heritage site, and also has been named one of the New Seven Wonders of the World. The Taj sees between two and four million tourists annually, so there have been recent restrictions on tourism in an effort to help protect the site. However, the greatest threat is the air pollution that is destroying the marble.",
+    "image": ".jpg"
+  },  
+  {
+    "name": "The Great Wall of China",
+    "location": "China",
+    "detail": "The Great Wall of China actually consists of numerous walls and fortifications. It was originally conceived by Emperor Qin Shi Huang (ca. 259–210 BC) in the third century BC as a means of keeping out the Mongol hordes invading the country. The best-known and best-preserved section of the Great Wall was built in the 14th through 17th centuries, during the Ming dynasty (1368–1644). Though the Great Wall never effectively prevented invaders from entering China, it’s still a massive engineering and construction feat and human accomplishment.",
+    "image": "greatwall.jpg"
+  },
+]
