@@ -115,7 +115,6 @@
                             <constraint firstItem="3Gr-Ha-hTb" firstAttribute="centerX" secondItem="gmw-XY-DcR" secondAttribute="centerX" id="9zQ-vG-CbZ"/>
                             <constraint firstItem="Bwg-Bp-pZE" firstAttribute="centerX" secondItem="gmw-XY-DcR" secondAttribute="centerX" id="DFX-iX-yYU"/>
                             <constraint firstItem="fLp-u3-4WB" firstAttribute="centerX" secondItem="gmw-XY-DcR" secondAttribute="centerX" id="DaW-JP-eto"/>
-                            <constraint firstItem="BJL-Vj-gsZ" firstAttribute="top" secondItem="3Gr-Ha-hTb" secondAttribute="bottom" constant="20" id="Hjr-FR-KEN"/>
                             <constraint firstItem="3Gr-Ha-hTb" firstAttribute="leading" secondItem="gmw-XY-DcR" secondAttribute="leadingMargin" id="JAa-HO-dxL"/>
                             <constraint firstItem="Bwg-Bp-pZE" firstAttribute="top" secondItem="fLp-u3-4WB" secondAttribute="bottom" constant="23" id="RfM-9u-Qi8"/>
                             <constraint firstItem="3Gr-Ha-hTb" firstAttribute="trailing" secondItem="gmw-XY-DcR" secondAttribute="trailingMargin" id="Ubi-nw-6kf"/>
